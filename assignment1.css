@@ -1,0 +1,64 @@
+body {
+    background: hsl(0, 0%, 100%);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: reverse;
+}
+
+.perfume {
+    font-size: 11px;
+    font-style: initial;
+}
+
+h1 {
+    font-size: 30px;
+    font-style: oblique;
+}
+
+div {
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    padding: 10px;
+}
+
+.price {
+    color: rgb(12, 10, 10);
+    background-color: white;
+    text-align: left;
+    font-style: italic;
+    font-size: 15px;
+}
+
+p {
+    font-size: 35px;
+}
+
+span {
+    color: white;
+    background-color: rgb(86, 184, 86);
+    text-align: left;
+    font-size: 40px;
+}
+
+aside {
+    width: 5px;
+    height: 10px;
+}
+
+aside img {
+    width: 350px;
+    height: auto;
+}
+
+button {
+    background: Green 700 hsl(158, 42%, 18%);
+    border: 5px solid green;
+}
+
+button img {
+    width: 40px;
+    height: auto;
+    border: 1px solid black;
+}
